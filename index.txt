@@ -1,5 +1,1 @@
-abc - develop hotfix
-dev 1
-dev 2
-
-hotfix 1
+master
